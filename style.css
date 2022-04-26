@@ -1,0 +1,25 @@
+.italic{
+  font-style: italic;
+}
+.paragraph{
+  font-family: verdana;
+  font-style: oblique;
+  }
+.picture{
+  height: 300px;
+}
+.tableCV{
+  border-style: solid;
+  border-radius: 30px ;
+  border-color: rgba(107, 218, 237, 0.3);
+  text-align: center;
+}
+.mainTable{
+  border-spacing: 30px;
+}
+.tableCV1{
+  border-style: solid;
+  border-radius: 15px ;
+  border-color: rgba(107, 218, 237, 0.3);
+  border-spacing:15px;
+}
